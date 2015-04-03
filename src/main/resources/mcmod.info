@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rr",
+  "name": "Remote Redstone",
+  "description": "Redstone, but wireless!",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BigguyCT"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
